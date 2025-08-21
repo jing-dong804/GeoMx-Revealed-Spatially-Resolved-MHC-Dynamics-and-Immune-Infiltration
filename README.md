@@ -13,5 +13,4 @@ All scripts and functions provided here reproduce the main computational analyse
 
 ---
 
-## Repository Structure
 
